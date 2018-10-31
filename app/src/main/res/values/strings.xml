@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Starbucks</string>
+
+    <string-array name="choices">Options>
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Cafes</item>
+    </string-array>
+
+    <string-array name="drinks">Joogid>
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Filters</item>
+    </string-array>
+
+
+</resources>
